@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Maulik Shah, a Data Enthusiast.
-- 🌱 I’m currently pursuing MS in Data Analytics program at Northeastern University.
-- 👀 I’m looking forward to work as a Data Engineer in one of the well developed company.
+- 👋 Hi, I’m Maulik Shah, a Senior Associate Data Engineer at Discover Financial Services.
+- 🌱 I’ve completed my Master of Science in Data Analytics program at Northeastern University.
+- 👀 I’m looking forward to work as a Senior Data Engineer in one of the Fortune 500 company.
 - 📫 You can reach me at 857-379-3524 or maulik0221@gmail.com
 
 <!---
